@@ -19,7 +19,7 @@ A fork of [athackst/vscode_ros2_workspace](https://github.com/athackst/vscode_ro
 
 2. 在打开的终端中运行：
 	```powershell
-	wsl --install
+	wsl --install Ubuntu-22.04
 	```
 
 3. 安装 Docker Desktop。
